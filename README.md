@@ -19,7 +19,7 @@ This project aims at determining the price of <u>Bitcoin</u> and <u>Ethereum</u>
       <li>West Texas Intermediate - Oil</li>
       <li>Brent Crude - Oil</li></ol></li></ul>
 
-<br>
+
 ## Algorithms Used
 <ol>
   <li> Long Short Term Memory (LSTM)</li>
