@@ -19,6 +19,9 @@ This project aims at determining the price of <u>Bitcoin</u> and <u>Ethereum</u>
       <li>West Texas Intermediate - Oil</li>
       <li>Brent Crude - Oil</li></ol></li></ul>
 China isn't included due to significant regulation in its equity markets are believed to have little to no impact on crypto prices. <br>
+<br>
+The Training set ranges from January 2017 to January 2021.<br>
+The Test set ranges from February to March 2021.<br>
 
 ## Algorithms Used
 <ol>
